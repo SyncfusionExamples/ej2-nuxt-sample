@@ -5,10 +5,10 @@ In this demo we have created the sample [ https://github.com/nuxt/nuxtjs.org ] w
 
 # Getting started with Syncfusion Essential JS2 Vue.
 
-In here, We hav used Nuxt.js structrue and rendered syncfusion controls in that.
+In here, We have used Nuxt.js structrue and rendered syncfusion controls.
 
 You have to refer below documentation link  to render syncfusion controls:
-[ https://ej2.syncfusion.com/vue/documentation/button/getting-started.html ]
+ [ https://ej2.syncfusion.com/vue/documentation/button/getting-started.html ]
 
 
 # Running Application
