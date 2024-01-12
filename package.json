@@ -10,7 +10,7 @@
     "@syncfusion/ej2-vue-grids": "^16.3.27",
     "@syncfusion/ej2-vue-navigations": "^16.3.27",
     "@syncfusion/ej2-vue-splitbuttons": "^16.3.24",
-    "axios": "^0.18.0",
+    "axios": "^1.6.0",
     "express": "^4.16.3",
     "highlight.js": "^9.12.0",
     "lodash": "^4.17.10",
